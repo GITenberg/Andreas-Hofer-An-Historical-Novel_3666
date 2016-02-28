@@ -1,0 +1,31 @@
+_repo: Andreas-Hofer-An-Historical-Novel_3666
+creator:
+  author:
+    agent_name: Mühlbach, L. (Luise)
+    aliases:
+    - Mundt, Klara Müller
+    - Muhlbach, L. (Luise)
+    - Mühlbach, Luise
+    - Mühlbach, Louise
+    - Mundt, Klara Muller
+    - Mundt, Clara
+    birthdate: 1814
+    deathdate: 1873
+    gutenberg_agent_id: '830'
+    url: http://www.gutenberg.org/2009/agents/830
+    wikipedia: http://de.wikipedia.org/wiki/Luise_M%C3%BChlbach
+description: ''
+gutenberg_issued: '2003-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3666'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Hofer, Andreas, 1767-1810 -- Fiction'
+- !lcsh 'Tyrol (Austria) -- History -- Uprising of 1809 -- Fiction'
+- !lcc 'PT'
+title: 'Andreas Hofer: An Historical Novel'
+url: http://www.gutenberg.org/ebooks/3666
